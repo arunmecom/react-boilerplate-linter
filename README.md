@@ -1,4 +1,4 @@
-Credit : https://medium.com/technical-credit/using-prettier-with-vs-code-and-create-react-app-67c2449b9d08
+Credit : https://medium.com/technical-credit/using-prettier-with-vs-code-and-create-react-app-67c2449b9d08 <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
